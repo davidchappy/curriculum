@@ -84,6 +84,7 @@ You'll build a simple binary tree data structure from some arbitrary input and a
 * [Francisco Carlos's solution](https://github.com/fcarlosdev/the_odin_project/tree/master/data_structures/binary_search_tree)
 * [at0micred's solution](https://github.com/at0micr3d/data_structure)
 * [Clint's solution](https://github.com/tholymap/OdinDataStructures/blob/master/bin_tree.rb)
+* [David Chapman's solution](https://github.com/davidchappy/odin_training_projects/blob/master/binary_trees/binary_trees.rb)
 * Add your solution above this line!
 
 
